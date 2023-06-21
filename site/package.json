@@ -22,7 +22,7 @@
     "cookie-universal-nuxt": "^2.1.5",
     "core-js": "^3.16.0",
     "element-ui": "^2.15.3",
-    "nuxt": "^2.15.7",
+    "nuxt": "^3.4.3",
     "qs": "^6.10.1",
     "ufo": "^0.7.7",
     "v-viewer": "^1.6.4",
